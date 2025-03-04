@@ -22,12 +22,12 @@ fav="C++"
 <h2>{Skill Set}</h2>
 
 
-<img src="icons/Bash-Light.svg" width=10%>
-<img src="icons/C.svg"width=10%>
-<img src="icons/CPP.svg"width=10%>
-<img src="icons/Arduino.svg"width=10%>
-<img src="icons/Python-Light.svg"width=10%>
-<img src="icons/HTML.svg"width=10%>
-<img src="icons/CSS.svg"width=10%>
+<img src="icons/Bash-Light.svg" width=8%>
+<img src="icons/C.svg"width=8%>
+<img src="icons/CPP.svg"width=8%>
+<img src="icons/Arduino.svg"width=8%>
+<img src="icons/Python-Light.svg"width=8%>
+<img src="icons/HTML.svg"width=8%>
+<img src="icons/CSS.svg"width=8%>
 
 ---
